@@ -1,0 +1,6 @@
+[project]
+name = "jeb-scripting"
+version = "1.0.0"
+description = "JEB Pro skill — headless script execution for reverse engineering"
+requires-python = ">=3.11"
+dependencies = []

@@ -1,0 +1,8 @@
+{
+  "name": "reverse-engineering-with-code-eval-and-jeb",
+  "description": "(Unsafe) Skills, knowledge, and scripts for reverse engineering with JEB Pro. Autonomously writes and executes JEB Python scripts to analyze binaries, extract functions, decompile code, and automate any reverse engineering task.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Charles"
+  }
+}
